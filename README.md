@@ -1,2 +1,2 @@
 # react-
-reacy框架
+react框架
